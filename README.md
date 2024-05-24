@@ -1,1 +1,18 @@
-# CheeatSheet-BugBounty
+# Bug Bounty Cheat Sheet
+
+- [Bug Bounty Platforms](cheatsheets/bugbountyplatforms.md)
+- [Special Tools](cheatsheets/special-tools.md)
+- [Recon](cheatsheets/recon.md)
+- [Practice Platforms](cheatsheets/practice-platforms.md)
+- [XSS](cheatsheets/xss.md)
+- [SQLI](cheatsheets/sqli.md)
+- [SSRF](cheatsheets/ssrf.md)
+- [CRLF Injection || HTTP Response Splitting](cheatsheets/crlf.md)
+- [CSV Injection](cheatsheets/csv-injection.md)
+- [LFI](cheatsheets/lfi.md)
+- [XXE](cheatsheets/xxe.md)
+- [RCE](cheatsheets/rce.md)
+- [Open Redirect](cheatsheets/open-redirect.md)
+- [Crypto](cheatsheets/crypto.md)
+- [Template Injection](cheatsheets/template-injection.md)
+- [XSLT Injection](cheatsheets/xslt.md)
