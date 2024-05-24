@@ -1,5 +1,5 @@
 # Bug Bounty Cheat Sheet
-
+<p align="center"><img src="https://github.com/Yoga913/CheeatSheet-BugBounty/blob/main/bonuty.jpg" alt="Deskripsi Gambar" width="300"></p>
 - [Bug Bounty Platforms](cheatsheets/bugbountyplatforms.md)
 - [Special Tools](cheatsheets/special-tools.md)
 - [Recon](cheatsheets/recon.md)
